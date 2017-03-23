@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<properties>
+    <driver type="org.postgresql.Driver">
+        <url>jdbc:postgresql</url>
+        <ipaddress>localhost</ipaddress>
+        <port>5432</port>
+        <database>dvdrental</database>        
+        <login>postgres</login>
+        <password>cop3330</password>
+     </driver>
+</properties>
